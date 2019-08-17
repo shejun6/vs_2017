@@ -11,6 +11,7 @@ int main()
 	cout << "佘军的项目" << endl;
     short n = 256;
     int x = 1;
+    int b = 10;
     //std::cout << "Hello111 World!\n"; 
     //cout << "佘军的项目" << endl;
     cout << (x >> n) << endl;
