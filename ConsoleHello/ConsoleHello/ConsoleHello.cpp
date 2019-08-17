@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-	cout << "佘军的项目" << endl;
+    cout << "佘军的项目" << endl;
     short n = 256;
     int x = 1;
     int b = 10;
